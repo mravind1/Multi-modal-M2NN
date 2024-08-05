@@ -1,3 +1,4 @@
+MMA-Metadata supported Multivariate attention for onset detection and prediction
 0.Python 3.8.5 and Keras 2.3.1 code is used for binary classification problem for EEG, ICP, ECG and ABP datasets described in paper.
 
 1. Code for EEG is made available in Multimodal_M2NN_files\Code\EEG.
